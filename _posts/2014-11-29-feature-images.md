@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: Feature images
 feature-img: "img/sample_feature_img.png"
 ---
